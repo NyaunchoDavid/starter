@@ -21,7 +21,7 @@ ol li a:hover{
   color:#c00057;
 }
 .intro{
-  background-image:url("/home/david/Pictures/love.jpg");
+  background-image:url("love.jpg");
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
