@@ -1,0 +1,55 @@
+.starter{
+  background-color:#00143d;
+  height:49px;
+  padding:9px;
+}
+ol{
+  margin-left:-39px;
+}
+ol li{
+  float:left;
+  list-style-type:none;
+  text-decoration:none;
+}
+ol li a{
+  text-decoration:none;
+  padding:6px;
+  font-size:28px;
+  color:#f3b3fd;
+}
+ol li a:hover{
+  color:#c00057;
+}
+.intro{
+  background-image:url("/home/david/Pictures/love.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  height:240px;
+  width:1031px;
+  padding:120px;
+}
+#fine{
+  font-size:56px;
+  color:#c00067;
+  width:300px;
+  position:absolute;
+  bottom:40px;
+  left:22px;
+}
+img{
+  float:left;
+  padding:px;
+}
+.gallery{
+  border:2px solid #000;
+  height:400px;
+  padding:32px;
+}
+h5{
+  font-size:34px;
+  border:none;
+  margin:0 auto;
+  padding:12px;
+  text-align:center;
+}
